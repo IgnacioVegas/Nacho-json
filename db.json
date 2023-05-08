@@ -1,37 +1,39 @@
-[
-    {
-      "id": 301,
-      "nombre": "Coors",
-      "descripcion": "El Pirograbador Soldadora a Gas Butano Dremel VersaTip viene con distintas puntas, permite realizar pirograbados, soldar, cortes térmicos, remoción de residuos, todo en distintos materiales. Con su diseño práctico en formato de bolígrafo, es posible trabajar con comodidad, precisión y facilidad hasta en lugares más pequeños. Inalámbrico y con funcionamiento a gas butano, permite que trabajes en cualquier lugar."
-    },
-    {
-      "id": 302,
-      "nombre": "Bacardi",
-      "descripcion": "Accesorio"
-    },
-    {
-      "id": 303,
-      "nombre": "Maleta accesorios 100 piezas",
-      "descripcion": "Accesorio"
-    },
-    {
-      "id": 304,
-      "nombre": "Set de brocas 31 unidades",
-      "descripcion": "Accesorio"
-    },
-    {
-      "id": 305,
-      "nombre": "Maletín X Line con 34 piezas",
-      "descripcion": "Accesorio"
-    },
-    {
-      "id": 6,
-      "nombre": "13 Brocas HSS Titanio Toma Hexagonal",
-      "descripcion": "Accesorio"
-    },
-    {
-      "id": 7,
-      "nombre": "PiroGrabador y soldadura",
-      "descripcion": "El Pirograbador Soldadora a Gas Butano Dremel VersaTip viene con distintas puntas, permite realizar pirograbados, soldar, cortes térmicos, remoción de residuos, todo en distintos materiales. Con su diseño práctico en formato de bolígrafo, es posible trabajar con comodidad, precisión y facilidad hasta en lugares más pequeños. Inalámbrico y con funcionamiento a gas butano, permite que trabajes en cualquier lugar."
-    }
-  ]
+{
+    "productos":[
+        {
+            "id": 1,
+            "nombre":"PiroGrabador y soldadura",
+            "descripcion":"El Pirograbador Soldadora a Gas Butano Dremel VersaTip viene con distintas puntas, permite realizar pirograbados, soldar, cortes térmicos, remoción de residuos, todo en distintos materiales. Con su diseño práctico en formato de bolígrafo, es posible trabajar con comodidad, precisión y facilidad hasta en lugares más pequeños. Inalámbrico y con funcionamiento a gas butano, permite que trabajes en cualquier lugar."
+        },
+        {
+            "id": 2,
+            "nombre":"Maletín con 48 piezas",
+            "descripcion":"Accesorio"
+        },
+        {
+            "id": 3,
+            "nombre":"Maleta accesorios 100 piezas",
+            "descripcion":"Accesorio"
+        },
+        {
+            "id": 4,
+            "nombre":"Set de brocas 31 unidades",
+            "descripcion":"Accesorio"
+        },
+        {
+            "id": 5,
+            "nombre":"Maletín X Line con 34 piezas",
+            "descripcion":"Accesorio"
+        },
+        {
+            "id": 6,
+            "nombre":"13 Brocas HSS Titanio Toma Hexagonal",
+            "descripcion":"Accesorio"
+        },
+        {
+            "id": 7,
+            "nombre":"PiroGrabador y soldadura",
+            "descripcion":"El Pirograbador Soldadora a Gas Butano Dremel VersaTip viene con distintas puntas, permite realizar pirograbados, soldar, cortes térmicos, remoción de residuos, todo en distintos materiales. Con su diseño práctico en formato de bolígrafo, es posible trabajar con comodidad, precisión y facilidad hasta en lugares más pequeños. Inalámbrico y con funcionamiento a gas butano, permite que trabajes en cualquier lugar."
+        }
+    ]
+}
